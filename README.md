@@ -4,7 +4,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-main-react-js-FvLFaJUOyG)
 - Live Site URL: [GitHub Pages](https://byiroh.github.io/testimonials-grid-section-main/)
 
 ## Table of contents
