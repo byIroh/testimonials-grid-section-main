@@ -7,10 +7,11 @@ function GridItem({ imgSrc, name, status, title, review, index }) {
         <img
           className="grid-item__decoration"
           src="images/bg-pattern-quotation.svg"
+          alt=""
         />
       )}
       <div className="grid-item__details-wrapper">
-        <img className="grid-item__img" src={imgSrc} />
+        <img className="grid-item__img" src={imgSrc} alt="profile image" />
         <div>
           <p className="grid-item__name">{name}</p>
           <p className="grid-item__status">{status}</p>
